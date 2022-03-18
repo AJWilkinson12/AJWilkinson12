@@ -1,6 +1,6 @@
 # Hi there, I'm AJ!
 
-[![Website](https://img.shields.io/website?label=anthonywilkinson.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://anthonywilkinson.com)
+[![Website](https://img.shields.io/website?label=anthonywilkinson.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.anthonywilkinson.com)
 
 ## I'm a Student and Developer!!
 
@@ -45,6 +45,6 @@
 
 ---
 
-[website]: https://anthonywilkinson.com/
-[twitter]: https://twitter.com/JerryBot_
+[website]: https://www.anthonywilkinson.com/
+[twitter]: https://www.twitter.com/JerryBot_
 [linkedin]: https://www.linkedin.com/in/aj-wilkinson-93425316b/
