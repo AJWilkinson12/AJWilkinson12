@@ -1,6 +1,6 @@
 # Hi there, I'm AJ!
 
-[![Website](https://img.shields.io/website?label=anthonywilkinson.com&style=for-the-badge&url=https%3A%2F%anthonywilkinson.com)](http://www.anthonywilkinson.com/)
+[![Website](https://img.shields.io/website?label=anthonywilkinson.com&style=for-the-badge&url=https%3A%2F%2Fanthonywilkinson.com)](http://www.anthonywilkinson.com/)
 
 ## I'm a Student and Developer!!
 
