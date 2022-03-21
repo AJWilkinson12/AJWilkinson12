@@ -1,6 +1,6 @@
 # Hi there, I'm AJ! 👋🏻
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ajwilkinson12&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ajwilkinson12&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajwilkinson12&layout=compact"/>
 
 ### .
