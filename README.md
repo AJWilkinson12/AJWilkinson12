@@ -12,9 +12,6 @@
 
 [![website](./img/globe-light.svg)](https://anthonywilkinson.com/)
 [![website](./img/globe-dark.svg)](https://anthonywilkinson.com/)
-&nbsp;&nbsp;
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/JerryBot_)
 [![website](./img/twitter-dark.svg)](https://twitter.com/JerryBot_)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aj-wilkinson-93425316b/)
