@@ -11,7 +11,7 @@
 
 # About Me!
 
-- Currently learning everything 👨🏼‍💻
+- Currently learning everything! 👨🏼‍💻
 - Love to golf and snowboard! ⛳️ 🏂
 - Studied Computer Science at the University of Missouri 🐯
 - Always looking for new projects and challenges to tackle! 😎
