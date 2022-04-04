@@ -21,3 +21,4 @@
 [<img src="https://img.shields.io/badge/<JerryBot>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/JerryBot_)
 [<img src="https://img.shields.io/badge/<AJ.Wilkinson>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/aj.wilkinson/)
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/ajwilkison/)
+[![Website](https://img.shields.io/website?label=AnthonWilkinson.com&style=for-the-badge&url=https%3A%2F%2Fanthonywilkinson.com)](https://anthonywilkinson.com)
