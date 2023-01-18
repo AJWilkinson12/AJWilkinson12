@@ -1,7 +1,7 @@
 # Hi there, I'm AJ! 👋🏻
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=ajwilkinson12&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajwilkinson12&layout=compact"/>
+<img align="left" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajwilkinson12&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajwilkinson12&layout=compact"/>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
